@@ -1,0 +1,41 @@
+# Primero
+# Es necesario configurar el archivo .gitconfig para agregarle un nombre de usuario y un correo
+# git config --global user.email "cristian@gmail.com"
+# git config --global user.email "cristian@gmail.com"
+# --global especifica que se aplicara a todo el equipo, no solo a un proyecto o un usuario en particular
+
+# Para configurar un alias
+# git config --global alias.tree "log --graph --decorate --all --oneline"
+# Util para automatizar algun comando, tree es el nombre del alias y con el cual se ejecutara
+# git tree, Se puede poner el nombre que quiera
+
+# Para ignorar algun fichero o carpeta y no añadirlos a git
+# crear un archivo llamado .gitignore
+# dentro de el colocar el nombre del fichero a ignorar
+
+
+
+
+
+# Creamos una carpeta donde se va a almacenar el proyecto y nos dirigimos a ella
+# Para iniciar git el comando
+# git init
+
+# Para ver el estado actual de los archivos
+# git status
+
+# Para añadir un fichero a git
+# git add "Nombre del fichero"
+
+# Para crear un commit (Punto de restauración o respaldo del proyecto)
+# git commit -m "Mensaje indicando que cambia o por que se hace el respaldo"
+# -m es necesario, sin el no es posible hacer el commit, e indica el mensaje entre comillas
+
+# Para ver los logs de los cambios hechos
+# git log
+
+# Para ver los cambios hechos desde el ultimo conmmit
+# git diff
+
+# Para restaurar un archivo a la ultima copia guardada
+# git checkout "Nombre del archivo"
