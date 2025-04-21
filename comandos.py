@@ -37,5 +37,11 @@
 # Para ver los cambios hechos desde el ultimo conmmit
 # git diff
 
+# Para ver que ficheros han tenido cambios desde la ultima copia
+# git reset
+
 # Para restaurar un archivo a la ultima copia guardada
 # git checkout "Nombre del archivo"
+
+# Para volver a una version atras y descartar todos los cambios de ahi en adelante
+# git reset --hard "ID de la version a la que queremos volver"
