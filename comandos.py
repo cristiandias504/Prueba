@@ -51,3 +51,10 @@
 
 # Para ir a una version mas adelante despues de haberla eliminado con reset --hard
 # ejecutar git reflog para ver los logs eliminados y con reset --hard ir al ID deseado
+
+# Para añadir un tag a una version
+# git tag nombre 
+# Puede servir para etiquetar algun punto para diferenciarlo de los demas
+
+# Para ver los tags que tenemos
+# git tag
