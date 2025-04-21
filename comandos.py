@@ -34,6 +34,9 @@
 # Para ver los logs de los cambios hechos
 # git log
 
+# Para ver todos los logs, incluyendo los eliminados mediante git reset --hard
+# git reflog
+
 # Para ver los cambios hechos desde el ultimo conmmit
 # git diff
 
@@ -45,3 +48,6 @@
 
 # Para volver a una version atras y descartar todos los cambios de ahi en adelante
 # git reset --hard "ID de la version a la que queremos volver"
+
+# Para ir a una version mas adelante despues de haberla eliminado con reset --hard
+# ejecutar git reflog para ver los logs eliminados y con reset --hard ir al ID deseado
