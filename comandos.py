@@ -43,8 +43,21 @@
 # Para ver que ficheros han tenido cambios desde la ultima copia
 # git reset
 
+
+
+
+
 # Para restaurar un archivo a la ultima copia guardada
 # git checkout "Nombre del archivo"
+
+# Para llevar el head sin desplazar el main a una version anterior
+# git checkout "ID de la version"
+
+# Para que el head vuelva a donde esta el main
+# git checkout main
+
+
+
 
 # Para volver a una version atras y descartar todos los cambios de ahi en adelante
 # git reset --hard "ID de la version a la que queremos volver"
