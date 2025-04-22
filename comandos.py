@@ -71,3 +71,14 @@
 
 # Para ver los tags que tenemos
 # git tag
+
+
+
+# RAMAS - BRANCH
+
+# Para crear una rama
+# git branch "Nombre de la rama"
+
+# Para cambiar entre ramas
+# git switch "Nombre de la rama"
+
