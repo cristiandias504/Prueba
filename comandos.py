@@ -82,3 +82,7 @@
 # Para cambiar entre ramas
 # git switch "Nombre de la rama"
 
+# Para traer los cambios de una rama a otra
+# Ubicarse en la rama a la que se quieren llevar los cambios
+# git merge "Nombre de la rama de la que se quieren traer los cambios"
+# Para salir del menu que aparece  ESC - ":wq" - ENTER
