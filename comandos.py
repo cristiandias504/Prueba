@@ -92,3 +92,11 @@
 # Sirve para guardar cambios temporales sin que queden registrados como un commit
 # El commit se debe usar para guardar codigo que funcione
 
+# Para guardar un stash
+# git stash
+
+# Para ver los stash hechos
+# git stash list
+
+# Para volver al ultimo stash 
+# git stash pop
