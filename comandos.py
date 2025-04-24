@@ -86,3 +86,9 @@
 # Ubicarse en la rama a la que se quieren llevar los cambios
 # git merge "Nombre de la rama de la que se quieren traer los cambios"
 # Para salir del menu que aparece  ESC - ":wq" - ENTER
+
+
+# STASH
+# Sirve para guardar cambios temporales sin que queden registrados como un commit
+# El commit se debe usar para guardar codigo que funcione
+
