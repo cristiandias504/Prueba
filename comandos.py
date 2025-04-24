@@ -87,6 +87,9 @@
 # git merge "Nombre de la rama de la que se quieren traer los cambios"
 # Para salir del menu que aparece  ESC - ":wq" - ENTER
 
+# Elimiar una rama
+# gut branch -d "Nombre de la rama"
+
 
 # STASH
 # Sirve para guardar cambios temporales sin que queden registrados como un commit
@@ -98,5 +101,8 @@
 # Para ver los stash hechos
 # git stash list
 
-# Para volver al ultimo stash 
+# Para volver al stash 
 # git stash pop
+
+# Para eliminar el stash
+# git stash drop
