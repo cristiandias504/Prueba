@@ -22,3 +22,8 @@
 # Abrimos una terminal, nos dirigimos a la carpeta donde queremos clonar el repositorio
 # Usamos el comando
 # git clone "URL que copiamos"
+
+# Copiar repositorio de otros usuarios
+# para copiar el repositorio de otro usuario en mi github y poder modificarlo
+# Fork
+# Vamos al repositorio que se quiere copiar y se selecciona la opción fork
