@@ -14,3 +14,11 @@
 # git pull
 # Es una combinación, hace lo de fetch y merge, para descargar los cambios y actualizacion de github a local
 # git pull
+
+
+# Clonar
+# En el cuadro verde que dice "code", y en SSH copiamos el link
+# Creamos una carpeta donde queremos clonar el repositorio
+# Abrimos una terminal, nos dirigimos a la carpeta donde queremos clonar el repositorio
+# Usamos el comando
+# git clone "URL que copiamos"
